@@ -59,7 +59,7 @@ OLED should show MODE: CAPTAIN and help.
 ## Python bridge on laptop:
 ```
 pip install pyserial pynput
-python C:\Users\ethan\Coding\Python\BridgeBox\bridge_box.py
+python [ENTER bridge_box.py FILE PATH]
 ```
 Keep EmptyEpsilon window focused when you press keys - Python sends keys there.
 
