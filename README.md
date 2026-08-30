@@ -8,6 +8,8 @@ Connect the wires as stated in `Wiring.md`.
 
 If you want these components all from one place, buy the 30 days in space kit from `https://craftingtable.com/products/adventure-kit-30-days-lost-in-space`.
 
+Replace your `keybindings.json` with the one in this repo for the correct control scheme.
+
 ### Running
 To run it, connect the Arduino to port COM3 of your device and run `bridge_box.py`.
 
