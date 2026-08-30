@@ -17,7 +17,7 @@ You can run `grab_coords.py` to redo the locations of the buttons.
 
 ### Controls
 #### Helm
-__Impulse__
+<u>Impulse<u>
 **1** - Sets impulse to 0%
 **2** - Sets impulse to 25%
 **3** - Sets impulse to 50%
@@ -29,17 +29,17 @@ __Impulse__
 **\*+4** - Sets impulse to -75%
 **\*+5** - Sets impulse to -100%
 
-__Warp__
+<u>Warp<u>
 **5** - Sets warp to level 0
 **6** - Sets warp to level 1
 **B** - Sets warp to level 2
 **7** - Sets warp to level 3
 **8** - Sets warp to level 4
 
-__Turning__
+<u>Turning<u>
 **Joystick left** - Turns the ship left
 **Joystick right** - Turns the ship right
 
-__QOL Controls__
+<u>QOL Controls<u>
 **9** - Toggles if the joystick contols the speed of the ship
 **C** - Toggles if the joystick contols the turning of the ship
